@@ -1,4 +1,4 @@
-![diagram1](https://github.com/HoangGuruu/DevOps-Hands-On-1-AWS-CodePipeline-Commit-Build-Deploy-CI-CD-WebApp/assets/111829092/742f98c0-d564-481f-9a95-72d961292fa6)
+
 # Part 1
 ## 1. AWS Codecommit 
 - Create repository : demo-app 

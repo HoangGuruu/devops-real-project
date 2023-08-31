@@ -1,19 +1,4 @@
-![HandsOn2 ](https://github.com/HoangGuruu/DevOps-Hands-On-2nd-Jenkins-CICD-with-GitHub-Integration-use-EC2-Ubuntu/assets/111829092/ccdebafa-7913-44fc-8c85-40479991a41b)
-# I. Link [tutorials](https://www.youtube.com/watch?v=nplH3BzKHPk&list=PL16dpeBne9TC6FWqB6kc7a5CiIcS2vXiX&index=54&t=5784s) in this project
-## 1. Tool for this project
-### EC2 Ubuntu
-### Jenkins 
-### GitHub
-### Docker ( Maybe ... in future )
-## 2. Link github install Jenkins
-https://github.com/HoangGuruu/DevOps-Command-Line-Install-Jenkins
-### Use this link to learn
-https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
-## 3. Link Docker Documentation
-
-## 4. Link youtube
-
-# II. All Script and Step i use in this project
+# I. All Script and Step i use in this project
 
 ## 1. Create AWS EC2 instance - Ubuntu
 - Allow 22, 80 , 443
