@@ -1,0 +1,54 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(249, 228, 255);
+    font-family: "Silkscreen", sans-serif;
+}
+
+.container {
+    display: flex;
+    height: 75vh;
+    align-items: center;
+}
+
+.option{
+    font-size: 256px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.left, .right{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+}
+
+.bottom button{
+    border-color: transparent;
+    font-family: "Silkscreen";
+    width: 100%;
+    max-width: 256px;
+    box-shadow: 0 3px 10px #A020F0;
+    height: 200px;
+    width: 200px;
+    border: 0;
+    border-radius: 50%;
+    background-color: #a020f0;
+    color: #fff;
+    font-size: 48px;
+    text-align: center;
+}
+
+.bottom button:hover{
+    box-shadow: none;
+    width: 250px;
+    height: 250px;
+}
+
+.bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+}
